@@ -1,0 +1,13 @@
+# Directories
+node_modules
+coverage
+dist
+types
+
+# Files
+*.log
+.DS_Store
+.eslintcache
+
+# Project
+yarn.lock
