@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "prebuild": "rm -rf dist types",
-    "build": "rollup -c --bundleConfigAsCjs"
+    "build": "rollup -c"
   },
   "devDependencies": {
     "rollup": "^3.21.4",
